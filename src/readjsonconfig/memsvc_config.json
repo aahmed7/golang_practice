@@ -1,0 +1,10 @@
+{
+    "server":
+    {
+        "host"         : "localhost",
+		"listen"       : ":8080",
+		"prefix"       : "memsvc",
+		"consulServer" : "localhost:8500",
+		"serviceName"  : "memory_service"
+    }
+}

@@ -1,0 +1,1 @@
+$env:GOPATH = $pwd.Path

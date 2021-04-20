@@ -3,3 +3,9 @@
 !*.*
 bin
 !set_gopath
+pkg
+grpc-go
+unittest*
+.vscode/**
+src/*.org
+src/*.com
